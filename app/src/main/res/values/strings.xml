@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+
+    <string name="info">
+        Please select the number of digits.
+        The number of digits in my mind and the number of digits you choose will be the same.
+        You have 5 chances to guess My Favorite Number.
+    </string>
+</resources>
